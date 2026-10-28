@@ -9,6 +9,7 @@
 ## 已收录技能
 
 - [session-handoff](skills/session-handoff/SKILL.md)：将当前会话整理成供新会话接续的交接摘要。
+- [lessons-to-rules](skills/lessons-to-rules/SKILL.md)：将会话中的纠正筛选成长期适用的规则，经确认后写入仓库的 AGENTS.md；仅在明确调用时使用。
 
 ## 本机使用
 
